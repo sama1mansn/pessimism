@@ -13,6 +13,7 @@ linters-settings:
     # If it's higher than 0.0 (float) the check is enabled
     # Default: 0.0
     package-average: 20.0
+b.com/golangci/golan
 
   errcheck:
     # Report about not checking of errors in type assertions: `a := b.(MyStruct)`.
